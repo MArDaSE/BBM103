@@ -1,2 +1,6 @@
-# BBM103
-This repository includes my solutions for the BBM103 class assignments, providing code examples and brief explanations for each task.
+# BBM103 Class Assignments
+
+This repository contains my solutions for the BBM103 class assignments. Each assignment folder includes:
+- **Assignment Instructions** (if provided)
+- **Source Code** 
+- **Brief Explanation** of the approach
